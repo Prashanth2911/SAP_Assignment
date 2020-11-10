@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="50233" started-at="2020-11-09T18:14:38 IST" finished-at="2020-11-09T18:15:28 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="50233" started-at="2020-11-09T18:14:38 IST" finished-at="2020-11-09T18:15:28 IST">
+      <class name="com.sap.assingnment.SAP.TC001_SAP_Platform_Sign_up">
+        <test-method status="PASS" signature="startUP()[pri:0, instance:com.sap.assingnment.SAP.TC001_SAP_Platform_Sign_up@27808f31]" name="startUP" is-config="true" duration-ms="12246" started-at="2020-11-09T18:14:38 IST" finished-at="2020-11-09T18:14:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUP -->
+        <test-method status="PASS" signature="Platform_Sign_up()[pri:0, instance:com.sap.assingnment.SAP.TC001_SAP_Platform_Sign_up@27808f31]" name="Platform_Sign_up" duration-ms="36894" started-at="2020-11-09T18:14:51 IST" finished-at="2020-11-09T18:15:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Platform_Sign_up -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.sap.assingnment.SAP.TC001_SAP_Platform_Sign_up@27808f31]" name="teardown" is-config="true" duration-ms="956" started-at="2020-11-09T18:15:28 IST" finished-at="2020-11-09T18:15:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.sap.assingnment.SAP.TC001_SAP_Platform_Sign_up -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
